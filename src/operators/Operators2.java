@@ -2,7 +2,7 @@ package operators;
 
 import java.util.Scanner;
 
-public class Operators1 {
+public class Operators2 {
     public static void main(String[] args) {
         int x, y;
 
@@ -11,7 +11,7 @@ public class Operators1 {
         y = inputValues[1];
 
 
-        System.out.println(x + y);
+        System.out.println(x * y);
     }
 
     public static int[] readInput() {

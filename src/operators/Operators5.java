@@ -2,8 +2,8 @@ package operators;
 
 import java.util.Scanner;
 
-public class Operators1 {
-    public static void main(String[] args) {
+public class Operators5 {
+public static void main(String[] args) {
         int x, y;
 
         int[] inputValues = readInput();
@@ -11,7 +11,7 @@ public class Operators1 {
         y = inputValues[1];
 
 
-        System.out.println(x + y);
+        System.out.println(x % y);
     }
 
     public static int[] readInput() {
