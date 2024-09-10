@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Operators11 {
     public static void main(String[] args) {
         int x, y;
-        boolean result = false;
 
         int[] inputValues = readInput();
         x = inputValues[0];

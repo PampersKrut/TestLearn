@@ -12,6 +12,7 @@ public class SecondLesson {
 
     public static String readInput() {
         Scanner scanner = new Scanner(System.in);
+        scanner.close();
         return scanner.nextLine();
     }
 }

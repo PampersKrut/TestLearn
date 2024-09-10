@@ -6,7 +6,6 @@ public class Operators9 {
     public static void main(String[] args) {
         int x, y;
         String op;
-        int result = 0;
 
         String[] inputValues = readInput();
         x = Integer.parseInt(inputValues[0]);
