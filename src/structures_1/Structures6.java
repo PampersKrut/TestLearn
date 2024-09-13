@@ -1,5 +1,7 @@
 package structures_1;
 
+import java.util.Scanner;
+
 public class Structures6 {
     public static void main(String[] args) {
         String[] inputValues = readInput();
